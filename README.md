@@ -44,9 +44,9 @@ A snapshot of work delivered for clients — detailed case studies coming to my 
 
 > Portfolio site in progress — individual case studies will be linked here as they go live.
 
-### Connect
+### Contact
 
-- LinkedIn: [linkedin.com/in/r-ahmed](https://www.linkedin.com/in/r-ahmed/)
-- Website: _coming soon_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ahmed/)
+![Website](https://img.shields.io/badge/Website-coming_soon-lightgrey?style=flat&logo=googlechrome&logoColor=white)
 
 <sub>Open to consulting engagements and full-time roles. Reach out via LinkedIn.</sub>

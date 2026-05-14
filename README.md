@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/r-ahmed/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0089FF&center=true&vCenter=true&width=700&lines=Frappe+Business+Solution+Provider;Converting+Business+Operations+to+ERP+Workflows;Available+for+Consulting+Engagements" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2800&pause=900&color=0089FF&background=FFFFFF00&center=true&vCenter=true&width=800&height=80&lines=Frappe+Solution+Provider" alt="Typing animation" />
   </a>
 </p>
 
@@ -10,11 +10,16 @@
 
 ### Tech Stack
 
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=erpnext&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat&logo=frappe&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-25D366?style=flat&logo=fastapi&logoColor=white)
+**Platform**
+
+<img src="https://img.shields.io/badge/ERPNext-v13--v16-0089FF?style=plastic&logo=erpnext&logoColor=white" alt="ERPNext v13-v16" height="24" />
+<img src="https://img.shields.io/badge/Frappe-v13--v16-0089FF?style=plastic&logo=frappe&logoColor=white" alt="Frappe v13-v16" height="24" />
+
+**Supporting stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" height="18" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" height="18" />
+<img src="https://img.shields.io/badge/REST_API-25D366?style=plastic&logo=fastapi&logoColor=white" alt="REST API" height="18" />
 
 ### Functional Coverage
 
@@ -40,7 +45,7 @@ A snapshot of work delivered for clients — detailed case studies coming to my 
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ahmed/)
-![Website](https://img.shields.io/badge/Website-coming_soon-lightgrey?style=flat&logo=googlechrome&logoColor=white)
+<a href="https://www.linkedin.com/in/r-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="18" /></a>
+<img src="https://img.shields.io/badge/Website-coming_soon-lightgrey?style=plastic&logo=googlechrome&logoColor=white" alt="Website coming soon" height="18" />
 
 <sub>Open to consulting engagements and full-time roles. Reach out via LinkedIn.</sub>

@@ -1,13 +1,12 @@
-<h1 align="center">Rizwan Ahmed</h1>
-<p align="center"><em>ERPNext Techno-Functional Consultant</em></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/r-ahmed/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0089FF&center=true&vCenter=true&width=700&lines=ERPNext+Techno-Functional+Consultant;Frappe+Framework+Developer;Turning+business+processes+into+workflows;Available+for+consulting+engagements" alt="Typing animation" />
+  </a>
+</p>
 
----
-
-I help businesses translate operational requirements into working ERPNext implementations — bridging the gap between functional process design and technical customization on the Frappe framework.
-
-- 3+ years implementing and customizing ERPNext across Accounting, Manufacturing, CRM, and HR/Payroll
-- Comfortable on both sides: discovery workshops with stakeholders **and** server scripts, custom DocTypes, and REST integrations
-- Focused on clean configuration first, code only when the platform can't express it
+<p align="center">
+  <em>I help businesses translate operational requirements into working ERPNext implementations — bridging functional process design and technical customization on the Frappe framework.</em>
+</p>
 
 ### Tech Stack
 

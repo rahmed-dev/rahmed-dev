@@ -17,7 +17,7 @@ GitHub profile repo for `rahmed-dev`. Only artifact is `README.md`. No app code.
 
 ## Editing rules for `README.md`
 
-1. **Visual style: clean minimal.** No typing SVGs, animated banners, streak/visitor widgets, contribution graphs, or emoji walls.
+1. **Visual style: clean minimal with one accent.** A single animated typing SVG (`readme-typing-svg`) in the header is approved. Do not add streak/visitor widgets, contribution graphs, multiple animated banners, or emoji walls.
 2. **Positioning is consultant-first, not developer-first.** Lead with business outcomes and domain coverage; tech is supporting evidence.
 3. **Engagements over repos.** Until public repos exist, describe *types of work delivered*, not client names. Never name a client without explicit permission.
 4. **Badges**: `shields.io` flat style only. Add a badge only for core skills.

@@ -12,14 +12,18 @@
 
 **Platform**
 
+<p>
 <img src="https://img.shields.io/badge/ERPNext-v13--v16-0089FF?style=plastic&logo=erpnext&logoColor=white" alt="ERPNext v13-v16" height="24" />
 <img src="https://img.shields.io/badge/Frappe-v13--v16-0089FF?style=plastic&logo=frappe&logoColor=white" alt="Frappe v13-v16" height="24" />
+</p>
 
 **Supporting stack**
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" height="18" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" height="18" />
 <img src="https://img.shields.io/badge/REST_API-25D366?style=plastic&logo=fastapi&logoColor=white" alt="REST API" height="18" />
+</p>
 
 ### Functional Coverage
 
@@ -45,7 +49,9 @@ A snapshot of work delivered for clients — detailed case studies coming to my 
 
 ### Contact
 
+<p>
 <a href="https://www.linkedin.com/in/r-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="18" /></a>
 <img src="https://img.shields.io/badge/Website-coming_soon-lightgrey?style=plastic&logo=googlechrome&logoColor=white" alt="Website coming soon" height="18" />
+</p>
 
 <sub>Open to consulting engagements and full-time roles. Reach out via LinkedIn.</sub>

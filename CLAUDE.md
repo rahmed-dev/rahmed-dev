@@ -27,5 +27,6 @@ GitHub profile repo for `rahmed-dev`. Only artifact is `README.md`. No app code.
      `<img src="https://img.shields.io/badge/{Label}-{Message}-{HexColor}?style=plastic&logo={slug}&logoColor=white" alt="{alt}" height="24" />`
    - Template (Secondary): same URL, `height="18"`.
    - Wrap in `<a href="...">` when the badge should be clickable (e.g., LinkedIn).
+   - **Group every badge row inside a `<p>...</p>` block.** GitHub's markdown renderer otherwise treats each `<img>` line as its own block and stacks them vertically.
 5. **Contact**: LinkedIn is primary. Do not surface email. Add website link only when Rizwan confirms a live URL.
 6. **Length budget**: roughly one desktop scroll. New section in → propose something out.

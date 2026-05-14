@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/r-ahmed/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0089FF&center=true&vCenter=true&width=700&lines=ERPNext+Techno-Functional+Consultant;Frappe+Framework+Developer;Turning+business+processes+into+workflows;Available+for+consulting+engagements" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0089FF&center=true&vCenter=true&width=700&lines=Frappe+Business+Solution+Provider;Converting+Business+Operations+to+ERP+Workflows;Available+for+Consulting+Engagements" alt="Typing animation" />
   </a>
 </p>
 

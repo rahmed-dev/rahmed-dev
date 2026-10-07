@@ -51,7 +51,7 @@ A snapshot of work delivered for clients — detailed case studies coming to my 
 
 <p>
 <a href="https://www.linkedin.com/in/r-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
-<a href="https://rahmed.dev/"><img src="https://img.shields.io/badge/Website-coming_soon-lightgrey?style=plastic&logo=googlechrome&logoColor=white" alt="Website coming soon" height="22" /></a>
+<a href="https://rahmed.dev/"><img src="https://img.shields.io/badge/Website-coming_soon-lightgrey?style=plastic&logo=googlechrome&logoColor=white" alt="rahmed.dev" height="22" /></a>
 </p>
 
 <sub>Open to consulting engagements and full-time roles. Reach out via LinkedIn.</sub>
